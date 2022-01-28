@@ -18,6 +18,6 @@ Here you can find all the certifications I've earned in my journey as a develope
 
 - [CCYD](https://ccyd.com.ar/)  | Patrones de Diseño (design patterns)
 
-**July 2021**
+**June 2021**
 
 - [CCYD](https://ccyd.com.ar/)  | React & React Native
